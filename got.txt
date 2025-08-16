@@ -1,4 +1,8 @@
 
 
+
 This is a file to learn git
-adding here
+adding here to simulate conflict
+i like git
+git is cool
+checking out git
